@@ -1,8 +1,8 @@
 {
   "active_licenses": {
-    "RN-KEY-TEST2": { 
+    "RN-KEY-TEST222": { 
       "ip": "185.211.100.62", 
-      "monitor": true, 
+      "monitor": false, 
       "note": "Ana Test Sunucusu" 
     },
     "RN-KEY-2": { 
