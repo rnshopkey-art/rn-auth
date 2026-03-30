@@ -1,5 +1,8 @@
 {
   "active_licenses": {
-    "RN-KEY-TEST": "185.211.100.62"
+    "RN-KEY-TEST2": {
+      "ip": "185.211.100.62",
+      "stop_resources": true
+    }
   }
 }
