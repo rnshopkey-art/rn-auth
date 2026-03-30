@@ -1,9 +1,29 @@
 {
   "active_licenses": {
-    "RN-KEY-TEST2": { "ip": "185.211.100.62", "monitor": false },
-    "RN-KEY-2": { "ip": "2.2.2.2", "monitor": false },
-    "RN-KEY-3": { "ip": "3.3.3.3", "monitor": false },
-    "RN-KEY-4": { "ip": "4.4.4.4", "monitor": false },
-    "RN-KEY-5": { "ip": "5.5.5.5", "monitor": false }
+    "RN-KEY-TEST2": { 
+      "ip": "185.211.100.62", 
+      "monitor": false, 
+      "note": "Ana Test Sunucusu" 
+    },
+    "RN-KEY-2": { 
+      "ip": "2.2.2.2", 
+      "monitor": false, 
+      "note": "Müşteri: Ahmet Yılmaz" 
+    },
+    "RN-KEY-3": { 
+      "ip": "3.3.3.3", 
+      "monitor": false, 
+      "note": "VDS-1 Paket Sunucusu" 
+    },
+    "RN-KEY-4": { 
+      "ip": "4.4.4.4", 
+      "monitor": false, 
+      "note": "Müşteri: Berk Babat" 
+    },
+    "RN-KEY-5": { 
+      "ip": "5.5.5.5", 
+      "monitor": false, 
+      "note": "Geliştirme Makinesi" 
+    }
   }
 }
