@@ -10,10 +10,10 @@
       "monitor": false, 
       "note": "efk" 
     },
-    "RN-KEY-3": { 
-      "ip": "3.3.3.3", 
+    "cfx-rzsfrtkalsrtyyta_czs321": { 
+      "ip": "185.34.101.161", 
       "monitor": false, 
-      "note": "VDS-1 Paket Sunucusu" 
+      "note": "flecce" 
     },
     "RN-KEY-4": { 
       "ip": "4.4.4.4", 
