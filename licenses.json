@@ -15,6 +15,11 @@
       "monitor": false, 
       "note": "f2fgun" 
     },
+      "zxgunfixelleme": { 
+      "ip": "185.34.101.131", 
+      "monitor": false, 
+      "note": "zxgun" 
+    },
     "licnseskeyraven38almnk": { 
       "ip": "185.34.101.26", 
       "monitor": false, 
