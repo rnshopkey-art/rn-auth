@@ -15,11 +15,7 @@
       "monitor": false, 
       "note": "f2fgun" 
     },
-      "zxgunfixelleme": { 
-      "ip": "185.34.101.131", 
-      "monitor": false, 
-      "note": "zxgun" 
-    },
+
       "metavfixelleme": { 
       "ip": "185.34.101.216", 
       "monitor": false, 
