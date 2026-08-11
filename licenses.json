@@ -12,7 +12,7 @@
     },
     "f2fgunfixelleme": { 
       "ip": "185.211.100.216", 
-      "monitor": false, 
+      "monitor": true, 
       "note": "f2fgun" 
     },
       "zxgunfixelleme": { 
