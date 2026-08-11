@@ -10,8 +10,8 @@
       "monitor": false, 
       "note": "efk" 
     },
-    "f2fgunfixelleme": { 
-      "ip": "185.211.100.216", 
+    "f2fgunfixelleme1": { 
+      "ip": "185.211", 
       "monitor": true, 
       "note": "f2fgun" 
     },
