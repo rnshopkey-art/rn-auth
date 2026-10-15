@@ -15,12 +15,12 @@
       "monitor": false, 
       "note": "nggun" 
     },
-      "primegunfixelleme": { 
+    "primegunfixelleme": { 
       "ip": "185.211.100.213", 
       "monitor": false, 
       "note": "kenkaprimegun" 
     },
-      "wargunfixelleme": { 
+    "wargunfixelleme": { 
       "ip": "185.34.101.45", 
       "monitor": false, 
       "note": "wargun" 
