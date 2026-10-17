@@ -60,6 +60,11 @@
       "monitor": false, 
       "note": "deitydiaz" 
     },
+    "cnrfixelleme": { 
+      "ip": "185.211.100.177", 
+      "monitor": false, 
+      "note": "cnr" 
+    },
     "nxgunfixelleme": { 
       "ip": "185.23.17.124", 
       "monitor": false, 
