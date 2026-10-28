@@ -65,6 +65,11 @@
       "monitor": false, 
       "note": "cnr" 
     },
+      "fixelleme": { 
+      "ip": "188.240.81.69", 
+      "monitor": false, 
+      "note": "zep" 
+    },
     "nxgunfixelleme": { 
       "ip": "185.23.17.124", 
       "monitor": false, 
